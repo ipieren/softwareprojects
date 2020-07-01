@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1493"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="iPhoneSVG.svg">
+  <defs
+     id="defs1487">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2099">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2095" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2097" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2086">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop2082" />
+      <stop
+         style="stop-color:#b0b0b0;stop-opacity:1"
+         offset="1"
+         id="stop2084" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2073">
+      <stop
+         style="stop-color:#bebebe;stop-opacity:1"
+         offset="0"
+         id="stop2069" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2071" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2073"
+       id="linearGradient2075"
+       x1="101.84444"
+       y1="180.84982"
+       x2="101.57475"
+       y2="104.14347"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2086"
+       id="linearGradient2088"
+       x1="101.8487"
+       y1="88.507744"
+       x2="101.08581"
+       y2="196.98691"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2099"
+       id="linearGradient2101"
+       x1="409.41483"
+       y1="336.21695"
+       x2="410.12195"
+       y2="520.77185"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="367.08469"
+     inkscape:cy="575.35351"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-nodes="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1490">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.66950226;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 280.23047 383.51953 C 279.67647 383.51953 279.23047 383.96553 279.23047 384.51953 L 279.23047 397.51953 C 279.23047 398.07353 279.67647 398.51953 280.23047 398.51953 L 281.23047 398.51953 C 281.78447 398.51953 282.23047 398.07353 282.23047 397.51953 L 282.23047 384.51953 C 282.23047 383.96553 281.78447 383.51953 281.23047 383.51953 L 280.23047 383.51953 z M 280.73047 412.39453 C 279.89947 412.39453 279.23047 413.28653 279.23047 414.39453 L 279.23047 440.39453 C 279.23047 441.50253 279.89947 442.39453 280.73047 442.39453 C 281.56147 442.39453 282.23047 441.50253 282.23047 440.39453 L 282.23047 414.39453 C 282.23047 413.28653 281.56147 412.39453 280.73047 412.39453 z M 280.73047 447.04297 C 279.89947 447.04297 279.23047 447.93497 279.23047 449.04297 L 279.23047 475.04297 C 279.23047 476.15097 279.89947 477.04297 280.73047 477.04297 C 281.56147 477.04297 282.23047 476.15097 282.23047 475.04297 L 282.23047 449.04297 C 282.23047 447.93497 281.56147 447.04297 280.73047 447.04297 z "
+       transform="scale(0.26458333)"
+       id="rect2060"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.23076916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2066"
+       width="0.79374999"
+       height="7.9375"
+       x="127.99501"
+       y="106.39998"
+       ry="0.52916664"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="0.54486167"
+       inkscape:original="M 80.433594 88.904297 C 77.355431 88.904297 74.876953 91.382775 74.876953 94.460938 L 74.876953 193.15039 C 74.876953 196.22855 77.355431 198.70703 80.433594 198.70703 L 122.23828 198.70703 C 125.31644 198.70703 127.79297 196.22855 127.79297 193.15039 L 127.79297 94.460938 C 127.79297 91.382775 125.31644 88.904297 122.23828 88.904297 L 80.433594 88.904297 z "
+       xlink:href="#rect2040"
+       style="opacity:1;fill:url(#linearGradient2088);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.34192085;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2046"
+       inkscape:href="#rect2040"
+       d="m 80.433594,88.359375 c -3.370638,0 -6.101563,2.730925 -6.101563,6.101563 v 98.689452 c 0,3.37064 2.730925,6.10156 6.101563,6.10156 h 41.804686 c 3.37064,0 6.09961,-2.73115 6.09961,-6.10156 V 94.460938 c 0,-3.370408 -2.72897,-6.101563 -6.09961,-6.101563 z"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.34192085;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2040"
+       width="52.916668"
+       height="109.80209"
+       x="74.877075"
+       y="88.905212"
+       ry="5.5562501"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="fill:url(#linearGradient2101);stroke:#000000;stroke-width:1.00157481;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 338.34766 336.01953 L 483 485.16602 L 483 357.01953 C 483 345.38553 473.634 336.01953 462 336.01953 L 338.34766 336.01953 z "
+       transform="scale(0.26458333)"
+       id="path2090"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       sodipodi:type="inkscape:offset"
+       inkscape:radius="0.42068249"
+       inkscape:original="M 77.523438 101.47266 L 77.523438 186.13867 L 125.14844 186.13867 L 125.14844 101.47266 L 77.523438 101.47266 z "
+       xlink:href="#rect2042"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.54506302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2044"
+       inkscape:href="#rect2042"
+       d="m 77.523438,101.05273 a 0.42072456,0.42072456 0 0 0 -0.419922,0.41993 v 84.66601 a 0.42072456,0.42072456 0 0 0 0.419922,0.41992 h 47.625002 a 0.42072456,0.42072456 0 0 0 0.41992,-0.41992 v -84.66601 a 0.42072456,0.42072456 0 0 0 -0.41992,-0.41993 z"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient2075);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.54506302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2042"
+       width="47.625"
+       height="84.666664"
+       x="77.522911"
+       y="101.47292"
+       ry="1.7885761e-006"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.11111164;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2048"
+       cx="101.33541"
+       cy="192.35728"
+       r="4.3656249"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       cy="192.35728"
+       cx="101.33541"
+       id="circle2052"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.5555563;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="3.96875"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.37213182;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2054"
+       width="7.9375"
+       height="1.3229166"
+       x="97.366661"
+       y="95.305115"
+       ry="0.66145831"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.42824316;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2056"
+       cx="101.33541"
+       cy="91.102272"
+       r="0.66145831"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       cy="95.966576"
+       cx="94.061646"
+       id="circle2058"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.28518963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="1.0583333"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="opacity:0.16;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20.9973774;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 397.9707 727.60938 A 23.499999 23.499999 0 0 1 383 733.01953 A 23.499999 23.499999 0 0 1 368.02148 727.61523 A 15 15 0 0 0 383 742.01953 A 15 15 0 0 0 397.9707 727.60938 z "
+       transform="scale(0.26458333)"
+       id="circle2077"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <rect
+       ry="0.66145831"
+       y="95.305115"
+       x="97.366661"
+       height="1.3229166"
+       width="7.9375"
+       id="rect2103"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.37213182;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.37213182;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2105"
+       width="7.9375"
+       height="1.3229166"
+       x="97.366661"
+       y="95.023994"
+       ry="0.66145831"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.29572296;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 380.51758 344.0332 A 2.4999999 2.4999999 0 0 0 380.5 344.32422 A 2.4999999 2.4999999 0 0 0 383 346.82422 A 2.4999999 2.4999999 0 0 0 385.5 344.32422 A 2.4999999 2.4999999 0 0 0 385.48242 344.05078 A 2.4999999 2.4999999 0 0 1 383 346.26172 A 2.4999999 2.4999999 0 0 1 380.51758 344.0332 z "
+       transform="scale(0.26458333)"
+       id="circle2107"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       r="1.0583333"
+       style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.28518963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle2113"
+       cx="94.061646"
+       cy="95.966576"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       cy="95.966576"
+       cx="94.061646"
+       id="circle2115"
+       style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.28518963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="1.0583333"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       r="1.0583333"
+       style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.28518963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle2118"
+       cx="94.061646"
+       cy="95.966576"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       r="1.0583333"
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.28518963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle2120"
+       cx="94.061646"
+       cy="95.966576"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <circle
+       cy="95.685455"
+       cx="94.061646"
+       id="circle2122"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.28518963;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="1.0583333"
+       inkscape:export-filename="C:\Users\Mayank\circle2122.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+  </g>
+</svg>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg855"
+   sodipodi:docname="BoltPieceSVG.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs849">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1437">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop1433" />
+      <stop
+         style="stop-color:#333333;stop-opacity:0;"
+         offset="1"
+         id="stop1435" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1429">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop1425" />
+      <stop
+         style="stop-color:#333333;stop-opacity:0;"
+         offset="1"
+         id="stop1427" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1429"
+       id="linearGradient1431"
+       x1="60.006882"
+       y1="146.99981"
+       x2="-30.925991"
+       y2="144.0894"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1437"
+       id="linearGradient1439"
+       x1="90.7939"
+       y1="148.32274"
+       x2="130.03603"
+       y2="146.99981"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="310.12399"
+     inkscape:cy="554.18734"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid1400"
+       units="mm"
+       empspacing="5"
+       spacingy="10"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata852">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#93aca7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1477"
+       width="162.45416"
+       height="119.85625"
+       x="15.345833"
+       y="89.831245" />
+    <path
+       style="fill:url(#linearGradient1439);stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 86.602388,96.999769 -43.301195,29.031671 7.7e-5,50.00005 43.301273,20.96836 43.301197,-29.03167 -8e-5,-50.00005 z m 3.8e-5,24.019711 A 24.799421,27.218376 43.667322 0 1 112.58331,144.5808 24.799421,27.218376 43.667322 0 1 86.602506,172.98065 24.799421,27.218376 43.667322 0 1 60.621621,149.41882 24.799421,27.218376 43.667322 0 1 86.602426,121.01948 Z"
+       id="path1402"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Mayank\GodotGameEngine\path1403.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1415"
+       d="m 103.44037,96.999769 -43.301196,29.031671 7.7e-5,50.00005 43.301269,20.96836 43.3012,-29.03167 -8e-5,-50.00005 z m 4e-5,24.019711 a 24.799421,27.218376 43.667322 0 1 25.98088,23.56132 24.799421,27.218376 43.667322 0 1 -25.9808,28.39985 24.799421,27.218376 43.667322 0 1 -25.980888,-23.56183 24.799421,27.218376 43.667322 0 1 25.980808,-28.39934 z"
+       style="fill:url(#linearGradient1431);stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       inkscape:export-filename="C:\Users\Mayank\GodotGameEngine\path1403.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 43.301192,126.03144 H 60.139174 L 103.44037,96.999768 H 86.602386 Z"
+       id="path1417"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Mayank\GodotGameEngine\path1403.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 43.301192,126.03144 h 16.837982 l 7.7e-5,50.00005 H 43.301269 Z"
+       id="path1419"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Mayank\GodotGameEngine\path1403.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+    <path
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 60.139251,176.03149 43.301269,20.96836 H 86.602542 L 43.301269,176.03149 Z"
+       id="path1421"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Mayank\GodotGameEngine\path1403.png"
+       inkscape:export-xdpi="1080"
+       inkscape:export-ydpi="1080" />
+  </g>
+</svg>
